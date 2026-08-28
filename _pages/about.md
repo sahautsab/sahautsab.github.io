@@ -7,11 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am **Utsab Saha**. I have completed my B.Sc. and M.Sc. in Electrical and Electronic Engineering from the **Bangladesh University of Engineering and Technology (BUET)**. I have also been working as a Lecturer in the Department of Computer Science and Engineering at **BRAC University**.
+Hello! I am **Utsab Saha**, a Ph.D. student in the Department of Electrical and Systems Engineering at **Washington University in St. Louis (WashU)**. I am a member of **Prof. Mark Anastasio’s Computational Imaging Science Laboratory**, where I work in the broad area of computational imaging and AI-driven imaging science.
 
-I am an incoming Ph.D. student at **Washington University in St. Louis (WashU)**, where I will join **Prof. Mark Anastasio’s Computational Imaging Science Laboratory**. My research interests are broadly centered on signal and image processing, computational imaging, medical AI, and machine learning.
+Before joining WashU, I completed my B.Sc. and M.Sc. in Electrical and Electronic Engineering from the **Bangladesh University of Engineering and Technology (BUET)**. I also worked as a Lecturer in the Department of Computer Science and Engineering at **BRAC University**, where I am currently on leave.
 
-My research interests lie in applied machine learning and deep learning for imaging science, with a particular focus on biomedical image analysis, computational imaging, and AI-driven imaging systems. I am interested in developing efficient and reliable models that can extract meaningful visual and structural information from complex biomedical data. More broadly, I aim to study imaging science from both applied and theoretical perspectives, combining AI-based methods with principled computational models to improve interpretation, reconstruction, and decision-making in medical and scientific imaging.
+My research interests lie in **applied machine learning and deep learning for imaging science**, with a particular focus on **biomedical image analysis, computational imaging, medical AI, and the theoretical foundations of imaging systems**. I am interested in developing efficient, reliable, and interpretable computational methods that can extract meaningful visual and structural information from complex biomedical data.
+
+More broadly, I aim to study imaging science from both applied and theoretical perspectives by combining AI-based methods with principled computational models to improve image reconstruction, interpretation, and decision-making in medical and scientific imaging.
 
 ## News and Events
 
