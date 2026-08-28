@@ -8,7 +8,7 @@ The website is built using the [Academic Pages](https://github.com/academicpages
 
 The live website is available at:
 
-[https://utsabbuet17.github.io](https://utsabbuet17.github.io)
+[https://sahautsab.github.io](https://sahautsab.github.io)
 
 ## Template Credit
 
