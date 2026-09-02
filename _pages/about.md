@@ -19,13 +19,17 @@ More broadly, I aim to study imaging science from both applied and theoretical p
 
 ### 2026
 
-1. **Feb 23, 2026** — Defended my M.Sc. thesis titled, *Development of a Federated Privacy-Preserving Data Synthesis Framework Using Randomized Mixing*.
+1. **Aug 25, 2026** — Received *Quality Journal Publication Award 2026* from BRAC University for publishing Q1 Jorunals (Top 10% Scopus).  
 
-2. **Feb 12, 2026** — Our paper titled, *Toward Efficient Identification of Retinal Diseases: A Lightweight Convolutional Neural Network-Based Approach Using Optical Coherence Tomography*, has been published in *Healthcare Technology Letters* by Wiley.
+1. **Aug 24, 2026** — Started pursuing my PhD in *Electrical Engineering at WashU*, focusing reseach in *Computational Biomedical Imaging*.
 
-3. **Feb 6, 2026** — A part of my M.Sc. thesis has been published in *Security and Privacy* by Wiley.
+2. **Feb 23, 2026** — Defended my M.Sc. thesis titled *Development of a Federated Privacy-Preserving Data Synthesis Framework Using Randomized Mixing*.
 
-4. **Jan 18, 2026** — Our multidomain PCG classification framework, *AudioFuse*, has been accepted at the prestigious *ICASSP 2026*.
+3. **Feb 12, 2026** — Our paper titled *Toward Efficient Identification of Retinal Diseases: A Lightweight Convolutional Neural Network-Based Approach Using Optical Coherence Tomography*, has been published in *Healthcare Technology Letters* by Wiley.
+
+4. **Feb 6, 2026** — A part of my M.Sc. thesis has been published in *Security and Privacy* by Wiley.
+
+5. **Jan 18, 2026** — Our multidomain PCG classification framework, *AudioFuse*, has been accepted at the prestigious *ICASSP 2026*.
 
 ### 2025
 
