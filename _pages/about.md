@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am **Utsab Saha**, a Ph.D. student in the Department of Electrical and Systems Engineering at **Washington University in St. Louis (WashU)**. I am a member of **Prof. Mark Anastasio’s Computational Imaging Science Laboratory**, where I work in the broad area of computational imaging and AI-driven imaging science.
+Hello! I am **Utsab Saha**, a Ph.D. student in **Electrical and Systems Engineering** at **Washington University in St. Louis**. I am affiliated with the **Mallinckrodt Institute of Radiology (MIR), WashU Medicine**, where I work in **Prof. Mark Anastasio’s Computational Imaging Science Laboratory**. My research interests lie broadly in computational imaging, biomedical imaging, and AI-driven imaging science.
 
 Before joining WashU, I completed my B.Sc. and M.Sc. in Electrical and Electronic Engineering from the **Bangladesh University of Engineering and Technology (BUET)**. I also worked as a Lecturer in the Department of Computer Science and Engineering at **BRAC University**, where I am currently on leave.
 
